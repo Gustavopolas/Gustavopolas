@@ -1,8 +1,8 @@
 ### Opa!!! Sou o Gustavo&#128056;
 
 
-- 🔭 Atualmente trabalho com Back-end
-- 🌱 Estou estudando Python
+- 🔭 Atualmente trabalho com Back-end e Front-end
+- 🌱 Estou estudando Python, Js, HTML e Css
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Divertido: Gosto de sapos&#128056;
 
